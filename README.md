@@ -14,8 +14,6 @@
 
 # Contents
 
-1. **Data**: Consists of a link to the actual dataset. 
+1. **Data**: Consists of the test and train data as well as the data description in a text file.  
 
-2. **Notebooks**: Contains the Python Jupyter Notebooks used for cleaning, analysis and modeling. More details regarding the notebooks are in the directory itself.  
-
-3. **Reports**: Contains all the documentation for the project including a detailed report and presentation slides. 
+2. **Jupyter notebooks and results**: Contains the Python Jupyter Notebook used for cleaning, analysis and modeling. Also contains a link to the Kaggle kernel. 
