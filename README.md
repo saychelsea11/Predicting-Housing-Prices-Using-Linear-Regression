@@ -5,7 +5,7 @@
 # Goal
 
 - Help homeowners decide a reasonable price at which to sell their house or help prospective buyers decide a fair purchase price for a new home in Ames, Iowa.
-- Utilize housing data containing features such as area, year built, number of rooms etc., to esimate the price of the house. 
+- Utilize housing data containing over 70 features such as area, year built, number of rooms, type of heating, number of fireplaces, and others to esimate the price of the house. 
 
 # Approach 
 
